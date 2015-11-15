@@ -1,0 +1,1 @@
+/home/debianlinux/USP/Concorrente/T2/Trab02-Grupo21-B/sequential/CMakeFiles/sequential.dir
